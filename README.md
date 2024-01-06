@@ -6,7 +6,7 @@
 
 ## Preamble
 
-_venture Forth_ is a small, proof-of-concept Quality of Life improvement for _Baldur's Gate 3_ which also includes the latest nude body overhauls and a selection of skimpy outfits.
+_Venture Forth_ is a small, proof-of-concept Quality of Life improvement for _Baldur's Gate 3_ which also includes the latest nude body overhauls and a selection of skimpy outfits.
 
 ### Requirements
 
@@ -54,7 +54,7 @@ _Venture Forth_ will not work with anything but a legitimate copy of _Baldur's G
 
 ### Registering the Mods with _BG3 Mod Manager_
 
-Unfortunately, while _Wabbajack_ can handle the installation of all the mods necessary for this modlist, it cannot yet automatically register configuration changes necessary to make them work in game. To accomplish this yourself, you need to launch "BG3 Mod Manager" from the dropdown menu. There should be an included Load Order you can import, do this and save it and your game will be ready to go.
+Unfortunately, while _Wabbajack_ can handle the installation of all the mods necessary for this modlist, it cannot yet automatically register configuration changes necessary to make them work in game. To accomplish this yourself, you need to launch "BG3 Mod Manager" from the dropdown menu. Once it is open, select "Import Order From File..." from the "File" menu. The BG3MM directory will appear, double click on the **bottom most** mod configuration (the `.tsv` file). You will receive an error that mods are missing, this is a false flag because of MO2's VFS file structure. You must click "Remove All Missing" here. Don't worry -- _ModFixer_ is still in the list as an override. Once that is done, select "Save Order" from the "File" menu and the mods will all be registered to your game.
 
 ### Launching the Modlist
 
