@@ -1,6 +1,6 @@
-# CLOUD MACHINE
+# VENTURE FORTH
 
-![Tifa](images/Tifa.png)
+![Tifa](images/Venture_Forth.png)
 
 ## "The Essentials, Plus Sloot."
 
