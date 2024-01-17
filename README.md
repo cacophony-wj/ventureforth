@@ -8,6 +8,10 @@
 
 _Venture Forth_ is a small, proof-of-concept Quality of Life improvement for _Baldur's Gate 3_ which also includes the latest nude body overhauls and a selection of skimpy outfits.
 
+#### More Information
+
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/venture-forth)
+
 ### Requirements
 
 - [Nexus Account](https://nexusmods.com/)
